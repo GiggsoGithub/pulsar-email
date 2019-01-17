@@ -7,6 +7,7 @@ public class EmailData  implements Serializable{
 	/**
 	 * @author Ganga Lakshmanasamy
 	 *  		Giggso
+	 *  ravi@giggso.com,ganga@giggso.com
 	 */
 	private static final long serialVersionUID = 1012833485490487246L;
 

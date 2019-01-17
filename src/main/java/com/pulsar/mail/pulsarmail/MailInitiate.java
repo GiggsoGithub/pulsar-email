@@ -11,7 +11,8 @@ import javax.mail.Store;
 
 /**
  * @author Ganga Lakshmanasamy
- *			Giggso
+ *  		Giggso
+ *  ravi@giggso.com,ganga@giggso.com
  */
 public class MailInitiate {
 		

@@ -30,7 +30,8 @@ import com.sun.mail.imap.IMAPFolder;
 
 /**
  * @author Ganga Lakshmanasamy
- *        Giggzo
+ *  		Giggso
+ *  ravi@giggso.com,ganga@giggso.com
  */
 public class MailProducer {
 	

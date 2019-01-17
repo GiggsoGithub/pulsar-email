@@ -21,7 +21,8 @@ import javax.mail.internet.MimeBodyPart;
 
 /**
  * @author Ganga Lakshmanasamy
- *			Giggso
+ *  		Giggso
+ *  ravi@giggso.com,ganga@giggso.com
  */
 public class ProcessMail {
 	public EmailData processEMail(Message msg,String userName) throws MessagingException, IOException {
